@@ -36,3 +36,8 @@ This project implements three fundamental data structures in C++: Linked List, B
 
 Main Function
    - Demonstrates the usage of each data structure by performing a series of operations and displaying the results.
+
+
+
+![image alt](https://github.com/pragati437/CODTECH-task-2/blob/main/Screenshot%202024-09-01%20173013.png?raw=true)
+
